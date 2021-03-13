@@ -5944,6 +5944,7 @@
 - [Richard Saseun](https://github.com/richardsaseun14)
 - [Aryan Sihag](https://github.com/Aryan-Sihag)
 - [Charlotte Sides](https://github.com/charsides)
+- [Ashutosh Mehta](https://github.com/ashu2163)
 - [Brian Yang](https://github.com/sobiyang)
 - [Agnaldo C Junior](https://github.com/ajnior)
 - [Cedric Muuo](https://github.com/damian-sketch)
